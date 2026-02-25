@@ -1,0 +1,10 @@
+com\civicreporting\service\UserService.class
+com\civicreporting\CivicApplication.class
+com\civicreporting\controller\HomeController.class
+com\civicreporting\service\ComplaintService.class
+com\civicreporting\controller\ComplaintController.class
+com\civicreporting\model\Complaint.class
+com\civicreporting\controller\UserController.class
+com\civicreporting\config\WebConfig.class
+com\civicreporting\service\OtpService.class
+com\civicreporting\model\User.class
